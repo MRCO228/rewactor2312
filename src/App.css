@@ -1,0 +1,35 @@
+.zagolovok {
+  background-color: black;
+  color:white;
+  padding: 0 0 0 50px;
+  display: block;
+  font-size: 140%;
+  font-family: serif;
+}
+
+body {
+  background-color: #81815d ;
+}
+
+li {
+  margin: 40px;
+}
+.katalog {
+  background-color: black;
+  color:white;
+  display: table;
+  padding: 0 30px 400px 0;
+  margin: 0 0 0 20px;
+}
+button {
+  width: 100%;
+}
+#kat {
+  margin: 0 0 20px 20px;
+}
+#toot {
+  position: relative;
+}
+#opr {
+  margin-top: 70px;
+}
